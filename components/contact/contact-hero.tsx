@@ -16,7 +16,7 @@ export function ContactHero() {
             Contact Us
           </h1>
           <p className="text-xl text-muted-foreground">
-            Get in touch with us - we're here to help
+            Get in touch with us - we&apos;re here to help
           </p>
         </motion.div>
       </div>

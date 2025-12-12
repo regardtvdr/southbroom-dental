@@ -12,7 +12,7 @@ export function Footer() {
             <p className="text-lg font-semibold mb-3 text-beach-sand">Your Smile Says It All!</p>
             <p className="text-sm text-white/90">
               Your trusted dental care provider in Southbroom, South Africa.
-              We're committed to providing exceptional dental services with a
+              We&apos;re committed to providing exceptional dental services with a
               gentle touch.
             </p>
           </div>

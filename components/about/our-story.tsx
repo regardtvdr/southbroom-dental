@@ -26,7 +26,7 @@ export function OurStory() {
               <p>
                 Our practice has been serving the local community for over a decade, 
                 building lasting relationships with our patients. We believe that 
-                everyone deserves access to high-quality dental care, and we're 
+                everyone deserves access to high-quality dental care, and we&apos;re 
                 committed to making that a reality.
               </p>
               <p>

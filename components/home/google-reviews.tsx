@@ -142,7 +142,7 @@ export function GoogleReviews() {
                     )}
                   </div>
                   <p className="text-muted-foreground mb-6 leading-relaxed">
-                    "{review.text}"
+                    &ldquo;{review.text}&rdquo;
                   </p>
                   <div className="flex items-center justify-between pt-4 border-t">
                     <div>

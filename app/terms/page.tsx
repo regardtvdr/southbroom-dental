@@ -70,7 +70,7 @@ export default function TermsPage() {
               <ul className="list-disc list-inside space-y-2 text-muted-foreground ml-4">
                 <li>Payment is due at the time of service unless prior arrangements have been made</li>
                 <li>We accept cash, credit cards, and medical aid schemes where applicable</li>
-                <li>Medical aid claims are subject to your scheme's terms and conditions</li>
+                <li>Medical aid claims are subject to your scheme&apos;s terms and conditions</li>
                 <li>Outstanding accounts may incur interest charges</li>
               </ul>
             </CardContent>

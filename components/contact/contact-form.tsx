@@ -87,7 +87,7 @@ export function ContactForm() {
         <CardHeader>
           <CardTitle className="text-2xl md:text-3xl mb-2">Send us a Message</CardTitle>
           <p className="text-muted-foreground">
-            Fill out the form below and we'll get back to you as soon as possible.
+            Fill out the form below and we&apos;ll get back to you as soon as possible.
           </p>
         </CardHeader>
         <CardContent>
@@ -107,7 +107,7 @@ export function ContactForm() {
               </motion.div>
               <h3 className="text-xl font-bold mb-2">Message Sent!</h3>
               <p className="text-muted-foreground">
-                Thank you for contacting us. We'll get back to you soon.
+                Thank you for contacting us. We&apos;ll get back to you soon.
               </p>
             </motion.div>
           ) : (
