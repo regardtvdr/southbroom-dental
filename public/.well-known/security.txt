@@ -1,0 +1,21 @@
+Contact: mailto:info@southbroomdental.co.za
+Expires: 2026-12-31T23:59:59.000Z
+Preferred-Languages: en
+Canonical: https://www.southbroomdental.co.za/.well-known/security.txt
+Policy: https://www.southbroomdental.co.za/popia
+Acknowledgments: https://www.southbroomdental.co.za/contact
+
+# Security Policy
+# We take security seriously. If you discover a security vulnerability,
+# please email us at info@southbroomdental.co.za with details.
+# We will respond within 48 hours.
+
+# Scope
+# This security policy applies to:
+# - www.southbroomdental.co.za
+# - All subdomains
+
+# Out of Scope
+# - Third-party services
+# - Social media accounts
+# - Physical security issues
