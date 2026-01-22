@@ -99,7 +99,7 @@ const services = [
     color: "from-beach-blue to-beach-ocean",
     features: [
       "Traditional metal braces",
-      "Clear ceramic braces",
+      "Clear aligner therapy",
       "Orthodontic consultations",
       "Treatment for children and adults",
       "Bite correction",
