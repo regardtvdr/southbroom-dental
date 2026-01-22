@@ -10,7 +10,8 @@ import {
   Heart, 
   Circle, 
   Sparkles,
-  CheckCircle2
+  CheckCircle2,
+  Anchor
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 
@@ -74,6 +75,20 @@ const services = [
       "Natural-looking appearance",
       "Improved chewing and speaking",
       "Regular adjustments and maintenance",
+    ],
+  },
+  {
+    id: "dental-implants",
+    icon: Anchor,
+    title: "Dental Implants",
+    description: "Permanent tooth replacement solutions using state-of-the-art dental implants. From placement to final restoration, we handle it all.",
+    color: "from-beach-blue to-beach-teal",
+    features: [
+      "Single tooth replacements",
+      "Immediate placements (after extraction)",
+      "Implant bridges",
+      "Implant supported dentures",
+      "From placement to final restoration",
     ],
   },
   {
